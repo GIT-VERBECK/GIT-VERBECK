@@ -5,7 +5,7 @@
 ### 💻 Web Developer | 🌐 Network Administrator | ⚙️ DevOps Enthusiast
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmdWRxZXlpdGlhMTRmd3M3NnZ0MGkxdzlva3Vwam90eW5vam9qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYdEiqywngeRWYNMrE/giphy.gif" width="800" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmdWRxZXlpdGlhMTRmd3M3NnZ0MGkxdzlva3Vwam90eW5vam9qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYdEiqywngeRWYNMrE/giphy.gif" width="900" />
 </p>
   
 ---
