@@ -41,8 +41,12 @@ SELECT
   <img src="https://streak-stats.demolab.com?user=GIT-VERBECK&theme=tokyonight" width="55%" />
 </p>
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-VERBECK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Top languages 
 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-VERBECK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="55%" />
+</p>
+ 
 ---
 
 ## ⌨️ Terminal Mode
