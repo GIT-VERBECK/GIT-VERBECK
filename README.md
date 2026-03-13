@@ -41,6 +41,8 @@ SELECT
   <img src="https://streak-stats.demolab.com?user=GIT-VERBECK&theme=tokyonight" width="55%" />
 </p>
 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-VERBECK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 ## ⌨️ Terminal Mode
@@ -53,7 +55,7 @@ verbeck@pc-verbeck:~$ cat role.txt
 Web Developer & Network Administrator
 
 verbeck@pc-verbeck:~$ ls stack/
-JavaScript  TypeScript  Node.js  React  Tailwind  Prisma  PostgreSQL
+JavaScript  TypeScript  Node.js  React  Tailwind  Prisma  PostgreSQL Sql Server
 
 verbeck@pc-verbeck:~$ ls infrastructure/
 Linux  Docker  Nginx  Git
