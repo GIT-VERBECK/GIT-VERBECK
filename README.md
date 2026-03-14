@@ -1,19 +1,21 @@
- ---
- 
+---
+
 # Hey, I'm JEAN-MARC VERBECK
- 
+
 ### 💻 Web Developer | 🌐 Network Administrator | ⚙️ DevOps Enthusiast
-<!-- 
+
+<!--
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmdWRxZXlpdGlhMTRmd3M3NnZ0MGkxdzlva3Vwam90eW5vam9qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYdEiqywngeRWYNMrE/giphy.gif" width="900" />
 </p>
    -->
+
 ---
 
-## 📑 About Me 
+## 📑 About Me
 
 ```sql
-SELECT 
+SELECT
     'JEAN-MARC VERBECK' AS name,
     'Web Developer & Network Administrator' AS role,
     ARRAY['JavaScript','TypeScript','Node.js','React','Tailwind'] AS frontend_backend,
@@ -35,16 +37,22 @@ SELECT
 
 ## 📊 GitHub Analytics
 
-### *Contribution
+### \*Contribution
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GIT-VERBECK&theme=tokyonight" width="55%" />
-</p>
+<div class="card" style="width: 100%; display: flex; gap: 2%;">
+      <p>
+        <img
+          src="https://streak-stats.demolab.com?user=GIT-VERBECK&theme=tokyonight"
+          width="55%"
+        />
+      </p>
 
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=GIT-VERBECK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
+      <p>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=GIT-VERBECK&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+        />
+      </p>
+</div>
  
 ---
 
@@ -72,7 +80,7 @@ System running in production mode.
 
 ---
 
-## Contact Me 
+## Contact Me
 
 <p align="center">
   <a href="https://github.com/GIT-VERBECK">
