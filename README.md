@@ -32,7 +32,7 @@ SELECT
 </p>
 
 ---
-
+<!-- 
 ## 📊 GitHub Analytics
 
  <!-- <span width="100%" >
@@ -47,13 +47,7 @@ SELECT
 
 ## ⌨️ Terminal Mode
 
-```bash
-
-verbeck@pc-verbeck:~$ uptime
-System running in production mode.
-```
-
----
+--- -->
 
 ## Contact Me
 
