@@ -49,8 +49,7 @@ SELECT
 
 ```bash
  
-verbeck@pc-verbeck:~$ cat role.txt
-Web Developer & Network Administrator
+
 
 verbeck@pc-verbeck:~$ ls stack/
 JavaScript  TypeScript  Node.js  React  Tailwind  Prisma  PostgreSQL Sql Server
