@@ -48,9 +48,7 @@ SELECT
 ## ⌨️ Terminal Mode
 
 ```bash
-verbeck@pc-verbeck:~$ whoami
-JEAN-MARC VERBECK
-
+ 
 verbeck@pc-verbeck:~$ cat role.txt
 Web Developer & Network Administrator
 
