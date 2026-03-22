@@ -48,10 +48,6 @@ SELECT
 ## ⌨️ Terminal Mode
 
 ```bash
- 
-
-verbeck@pc-verbeck:~$ ls infrastructure/
-Linux  Docker  Nginx  Git
 
 verbeck@pc-verbeck:~$ echo $MISSION
 Build scalable web systems by solid network architecture.
