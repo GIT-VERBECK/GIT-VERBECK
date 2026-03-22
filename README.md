@@ -32,23 +32,7 @@ SELECT
 </p>
 
 ---
-<!-- 
-## 📊 GitHub Analytics
-
- <!-- <span width="100%" >
-  <img src="https://streak-stats.demolab.com?user=GIT-VERBECK&theme=tokyonight"
-          width="55%"  />
  
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=GIT-VERBECK&theme=dark&hide_border=false&include_all_commits=false&count_private=false"        />
-</span> 
- 
-  -->
----
-
-## ⌨️ Terminal Mode
-
---- -->
-
 ## Contact Me
 
 <p align="center">
