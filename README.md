@@ -50,8 +50,6 @@ SELECT
 ```bash
  
 
-JavaScript  TypeScript  Node.js  React  Tailwind  Prisma  PostgreSQL Sql Server
-
 verbeck@pc-verbeck:~$ ls infrastructure/
 Linux  Docker  Nginx  Git
 
