@@ -49,9 +49,6 @@ SELECT
 
 ```bash
 
-verbeck@pc-verbeck:~$ echo $MISSION
-Build scalable web systems by solid network architecture.
-
 verbeck@pc-verbeck:~$ uptime
 System running in production mode.
 ```
