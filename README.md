@@ -50,8 +50,6 @@ SELECT
 ```bash
  
 
-
-verbeck@pc-verbeck:~$ ls stack/
 JavaScript  TypeScript  Node.js  React  Tailwind  Prisma  PostgreSQL Sql Server
 
 verbeck@pc-verbeck:~$ ls infrastructure/
