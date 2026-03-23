@@ -28,7 +28,7 @@ SELECT
 ## 🖇️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,js,ts,nodejs,react,tailwind,prisma,postgres,git,docker,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,js,ts,nodejs,react,tailwind,prisma,postgres,git,docker,linux,nginx,kubernetes,c,vim,windows,vite,vercel,supabase,postgres,npm"/>
 </p>
 
 ---
