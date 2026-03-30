@@ -17,7 +17,7 @@ SELECT
     'JEAN-MARC VERBECK' AS name,
     'Web Developer & Network Administrator' AS role,
     ARRAY['JavaScript','TypeScript','Node.js','React','Tailwind'] AS frontend_backend,
-    ARRAY['Prisma','PostgreSQL','Sql Server'] AS database,
+    ARRAY['Prisma','PostgreSQL','Sql Server','mysql'] AS database,
     ARRAY['Linux','Docker','Nginx','Git'] AS infrastructure,
     'Build scalable web systems by solid network architecture.' AS mission;
 
