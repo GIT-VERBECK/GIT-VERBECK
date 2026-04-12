@@ -32,6 +32,10 @@ SELECT
 </p>
 
 ---
+
+## 📊 Github Stats
+
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_public/GIT-VERBECK.svg)](https://user-badge.committers.top/congo_kinshasa_public/GIT-VERBECK)
  
 ## 📇 Contact Me
 
