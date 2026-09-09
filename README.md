@@ -35,7 +35,7 @@ SELECT
 
 ## 📊 Github Stats
 
-<a href="https://stardev.io/developers/GIT-VERBECK"><img alt="Check out GIT-VERBECK's profile on stardev.io" src="https://stardev.io/developers/GIT-VERBECK/badge/languages/global.svg" /></a>
+[![Check out GIT-VERBECK's profile on stardev.io](https://stardev.io/developers/GIT-VERBECK/badge/languages/global.svg)](https://stardev.io/developers/GIT-VERBECK)
 
 ## 📇 Contact Me
 
