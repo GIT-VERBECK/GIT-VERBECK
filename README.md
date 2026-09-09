@@ -33,10 +33,6 @@ SELECT
 
 ---
 
-## 📊 Github Stats
-
-[![Check out GIT-VERBECK's profile on stardev.io](https://stardev.io/developers/GIT-VERBECK/badge/languages/global.svg)](https://stardev.io/developers/GIT-VERBECK)
-
 ## 📇 Contact Me
 
 <p align="center">
