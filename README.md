@@ -35,8 +35,8 @@ SELECT
 
 ## 📊 Github Stats
 
-[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_public/GIT-VERBECK.svg)](https://user-badge.committers.top/congo_kinshasa_public/GIT-VERBECK)
- 
+<a href="https://stardev.io/developers/GIT-VERBECK"><img alt="Check out GIT-VERBECK's profile on stardev.io" src="https://stardev.io/developers/GIT-VERBECK/badge/languages/global.svg" /></a>
+
 ## 📇 Contact Me
 
 <p align="center">
